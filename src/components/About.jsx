@@ -1,4 +1,4 @@
-import HTML from '../assets/icons/html.png'
+import HTMLicon from '../assets/icons/htmlicon.png'
 import CSS from '../assets/icons/css.png'
 import JS from '../assets/icons/javascript.png'
 import NEXT from '../assets/icons/next.png'
@@ -11,7 +11,7 @@ import GIT from '../assets/icons/git.png'
 export default function About() {
     // Skills data array with paths to icon images
     const skills = [
-      { name: "HTML", iconPath: HTML},
+      { name: "HTML", iconPath: HTMLicon},
       { name: "CSS", iconPath: CSS},
       { name: "JS", iconPath: JS},
       { name: "REACT", iconPath: REACT},
