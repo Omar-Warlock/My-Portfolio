@@ -1,4 +1,4 @@
-import htmlIcon from "../assets/icons/h.png";
+import htmlIcon from "../assets/icons/ht.png";
 import CSS from '../assets/icons/css.png'
 import JS from '../assets/icons/javascript.png'
 import NEXT from '../assets/icons/next.png'
