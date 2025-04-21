@@ -1,12 +1,12 @@
-import htmlIcon from "../assets/icons/ht.png";
-import CSS from '../assets/icons/css.png'
-import JS from '../assets/icons/javascript.png'
-import NEXT from '../assets/icons/next.png'
-import REACT from '../assets/icons/react.png'
-import VSCODE from '../assets/icons/visual-studio-code.png'
-import TAILWIND from '../assets/icons/tailwind.png'
-import GITHUB from '../assets/icons/github.png'
-import GIT from '../assets/icons/git.png'
+import htmlIcon from "../assets/Icons/ht.png";
+import CSS from '../assets/Icons/css.png'
+import JS from '../assets/Icons/javascript.png'
+import NEXT from '../assets/Icons/next.png'
+import REACT from '../assets/Icons/react.png'
+import VSCODE from '../assets/Icons/visual-studio-code.png'
+import TAILWIND from '../assets/Icons/tailwind.png'
+import GITHUB from '../assets/Icons/github.png'
+import GIT from '../assets/Icons/git.png'
 
 export default function About() {
     // Skills data array with paths to icon images
