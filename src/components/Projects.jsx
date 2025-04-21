@@ -4,7 +4,7 @@ import { useState } from "react"
 import bookTwonImg from '../assets/images/booktown.png'
 import FyloImg from '../assets/images/Fylo.png'
 import InsightlyImg from '../assets/images/Insightly.png'
-import CleanBlogImg from '../assets/images/CleanBlog.png'
+import CleanBlogImg from '../assets/images/cleanBlog.png'
 export default function Projects() {
   // Project data array
   const [projects, setProjects] = useState([
